@@ -1,3 +1,3 @@
-module CodeCalc
+module AppCode
 
 go 1.23.4
